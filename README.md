@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @EdwardBurgos 
+- 🧑 I'am 21 years old
+- 👀 I’m interested in Software Delevelopment
+- 🌱 I’m currently learning JavaScript, Java, Python, React and NodeJS
+- 💞️ I’m looking to collaborate on innovative projects
+- 📫 To reach me send me an email to edwardpbn@gmail.com
