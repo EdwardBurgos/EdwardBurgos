@@ -6,6 +6,4 @@ My complete tech stack is JavaScript | TypeScript | React.js | Redux.js | Node.j
 
 I want to be part of a company that helps me grow as a person, expand my knowledge and improve my skills.
 
-You can check my projects at https://github.com/EdwardBurgos
-
 If you want to contact me you send me a message through Linkedin or an email to edwardpbn@gmail.com
